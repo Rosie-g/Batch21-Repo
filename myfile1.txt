@@ -1,2 +1,3 @@
 adding from github.com, infinite loop was very helpful
 adding more stuff
+more stuff in file 1
