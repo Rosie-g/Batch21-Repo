@@ -1,1 +1,7 @@
 more great staff here
+more staff has been added
+we are cloning
+making some changes
+pushing it back
+remote to local
+remote repository
